@@ -6,6 +6,7 @@
 #include "13-movingCount.h"
 #include "14-cuttingRope.h"
 #include "15-hammingWeight.h"
+#include "16-myPow.h"
 using namespace std;
 
 int main() {
