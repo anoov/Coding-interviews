@@ -3,6 +3,7 @@
 #include "03-findRepeatNumber.h"
 #include "11-minArray.h"
 #include "12-exist.h"
+#include "13-movingCount.h"
 using namespace std;
 
 int main() {
