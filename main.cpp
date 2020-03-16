@@ -5,6 +5,7 @@
 #include "12-exist.h"
 #include "13-movingCount.h"
 #include "14-cuttingRope.h"
+#include "15-hammingWeight.h"
 using namespace std;
 
 int main() {
