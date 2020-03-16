@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "03-findRepeatNumber.h"
+#include "11-minArray.h"
 using namespace std;
 
 int main() {
