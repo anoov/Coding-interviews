@@ -7,6 +7,7 @@
 #include "14-cuttingRope.h"
 #include "15-hammingWeight.h"
 #include "16-myPow.h"
+#include "17-printNumbers.h"
 using namespace std;
 
 int main() {
