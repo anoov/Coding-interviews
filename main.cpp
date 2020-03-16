@@ -4,6 +4,7 @@
 #include "11-minArray.h"
 #include "12-exist.h"
 #include "13-movingCount.h"
+#include "14-cuttingRope.h"
 using namespace std;
 
 int main() {
