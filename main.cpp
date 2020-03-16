@@ -2,6 +2,7 @@
 #include <vector>
 #include "03-findRepeatNumber.h"
 #include "11-minArray.h"
+#include "12-exist.h"
 using namespace std;
 
 int main() {
