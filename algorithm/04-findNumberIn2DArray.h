@@ -11,6 +11,7 @@ bool findNumberIn2DArray(vector<vector<int>>& matrix, int target) {
     int cols = matrix[0].size();
     int row = 0;
     int col = cols - 1;
+
     while (row < rows && col >= 0) {
         int tmp = matrix[row][col];
         if (target > tmp) {
