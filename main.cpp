@@ -12,6 +12,8 @@
 #include "20-isNumber.h"
 #include "21-exchange.h"
 #include "22-getKthFromEnd.h"
+#include "24-reverseList.h"
+#include "25-mergeTwoLists.h"
 using namespace std;
 
 int main() {
