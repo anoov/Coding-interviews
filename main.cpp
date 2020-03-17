@@ -11,6 +11,7 @@
 #include "19-isMatch.h"
 #include "20-isNumber.h"
 #include "21-exchange.h"
+#include "22-getKthFromEnd.h"
 using namespace std;
 
 int main() {
