@@ -5,7 +5,6 @@
 #ifndef LEETCODE_24_REVERSELIST_H
 #define LEETCODE_24_REVERSELIST_H
 #include "listNode.h"
-
 ListNode* reverseList(ListNode* head) {
     if (head == nullptr)
         return nullptr;
