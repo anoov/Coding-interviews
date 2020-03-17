@@ -16,6 +16,7 @@ using namespace std;
 //#include "algorithm/24-reverseList.h"
 //#include "algorithm/25-mergeTwoLists.h"
 #include "algorithm/04-findNumberIn2DArray.h"
+#include "algorithm/05-replaceSpace.h"
 
 int main() {
 
