@@ -4,6 +4,7 @@
 
 #ifndef LEETCODE_12_EXIST_H
 #define LEETCODE_12_EXIST_H
+
 bool exist(std::vector<std::vector<char>>& board, int rows, int cols, int row, int col,
            std::string word, int &pathLength, std::vector<std::vector<bool>>& visited) {
     if (pathLength == word.size()) return true;
