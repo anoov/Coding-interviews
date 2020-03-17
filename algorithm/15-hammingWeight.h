@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_15_HAMMINGWEIGHT_H
 #define LEETCODE_15_HAMMINGWEIGHT_H
-
 int hammingWeight(uint32_t n) {
     uint32_t tmp = 0x1;
     int num = 0;
