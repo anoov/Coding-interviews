@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_22_GETKTHFROMEND_H
 #define LEETCODE_22_GETKTHFROMEND_H
-
 #include "listNode.h"
 ListNode* getKthFromEnd(ListNode* head, int k) {
     if (head == nullptr || k == 0) return head;
