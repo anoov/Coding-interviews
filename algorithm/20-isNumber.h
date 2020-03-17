@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_20_ISNUMBER_H
 #define LEETCODE_20_ISNUMBER_H
-
 #include <string>
 using namespace std;
 
