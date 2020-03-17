@@ -5,8 +5,6 @@
 #ifndef LEETCODE_21_EXCHANGE_H
 #define LEETCODE_21_EXCHANGE_H
 
-#include <vector>
-using namespace std;
 vector<int> exchange(vector<int>& nums) {
     int left = 0;
     int right = nums.size()-1;
