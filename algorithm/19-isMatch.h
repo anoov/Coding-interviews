@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_19_ISMATCH_H
 #define LEETCODE_19_ISMATCH_H
-
 #include <string>
 using namespace std;
 bool isMatch(string &s, int s_index, string &p, int p_index) {
