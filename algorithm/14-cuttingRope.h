@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_14_CUTTINGROPE_H
 #define LEETCODE_14_CUTTINGROPE_H
-
 int cuttingRope(int n) {
     if (n == 2) return 1;
     if (n == 3) return 2;
