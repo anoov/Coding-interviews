@@ -1,19 +1,19 @@
 #include <iostream>
 #include <vector>
-#include "03-findRepeatNumber.h"
-#include "11-minArray.h"
-#include "12-exist.h"
-#include "13-movingCount.h"
-#include "14-cuttingRope.h"
-#include "15-hammingWeight.h"
-#include "16-myPow.h"
-#include "17-printNumbers.h"
-#include "19-isMatch.h"
-#include "20-isNumber.h"
-#include "21-exchange.h"
-#include "22-getKthFromEnd.h"
-#include "24-reverseList.h"
-#include "25-mergeTwoLists.h"
+#include "algorithm/03-findRepeatNumber.h"
+#include "algorithm/11-minArray.h"
+#include "algorithm/12-exist.h"
+#include "algorithm/13-movingCount.h"
+#include "algorithm/14-cuttingRope.h"
+#include "algorithm/15-hammingWeight.h"
+#include "algorithm/16-myPow.h"
+#include "algorithm/17-printNumbers.h"
+#include "algorithm/19-isMatch.h"
+#include "algorithm/20-isNumber.h"
+#include "algorithm/21-exchange.h"
+#include "algorithm/22-getKthFromEnd.h"
+#include "algorithm/24-reverseList.h"
+#include "algorithm/25-mergeTwoLists.h"
 using namespace std;
 
 int main() {
