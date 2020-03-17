@@ -4,6 +4,7 @@
 
 #ifndef LEETCODE_17_PRINTNUMBERS_H
 #define LEETCODE_17_PRINTNUMBERS_H
+
 std::vector<int> printNumbers(int n) {
     int number = 1;
     int i = 0;
