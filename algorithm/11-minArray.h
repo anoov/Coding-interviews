@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_11_MINARRAY_H
 #define LEETCODE_11_MINARRAY_H
-
 int minArray(std::vector<int>& numbers) {
     if (numbers.empty())
         return -1;
