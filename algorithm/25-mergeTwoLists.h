@@ -5,7 +5,6 @@
 #ifndef LEETCODE_25_MERGETWOLISTS_H
 #define LEETCODE_25_MERGETWOLISTS_H
 #include "listNode.h"
-
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
     if (l1 == nullptr) return l2;
     if (l2 == nullptr) return l1;
