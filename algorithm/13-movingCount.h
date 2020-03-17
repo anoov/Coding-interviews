@@ -4,7 +4,6 @@
 
 #ifndef LEETCODE_13_MOVINGCOUNT_H
 #define LEETCODE_13_MOVINGCOUNT_H
-
 int getDigitSum(int num) {
     int sum = 0;
     while (num > 0) {
