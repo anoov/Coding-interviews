@@ -4,6 +4,7 @@
 
 #ifndef LEETCODE_16_MYPOW_H
 #define LEETCODE_16_MYPOW_H
+
 double myPowWithUnsigned(double x, unsigned int n) {
     if (n == 0) return 1;
     if (n == 1) return x;
