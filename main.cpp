@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
+#include <stack>
 using namespace std;
-#include "algorithm/28-isSymmetric.h"
+#include "algorithm/30-MinStack.h"
 
 
 int main() {
