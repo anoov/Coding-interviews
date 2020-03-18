@@ -17,6 +17,7 @@ using namespace std;
 //#include "algorithm/25-mergeTwoLists.h"
 #include "algorithm/04-findNumberIn2DArray.h"
 #include "algorithm/05-replaceSpace.h"
+#include "algorithm/26-isSubStructure.h"
 
 int main() {
 
