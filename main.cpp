@@ -1,14 +1,12 @@
 #include <iostream>
 #include <vector>
 #include <stack>
+#include <queue>
 using namespace std;
-#include "algorithm/30-MinStack.h"
-#include "algorithm/31-validateStackSequences.h"
 
+#include "34-pathSum.h"
 
 int main() {
-    vector<int> a{1, 2, 3, 4, 5};
-    vector<int> b{4, 5, 3, 2, 1};
-    cout << validateStackSequences(a, b) << endl;
+    vector<int> a{7, 4, 6, 5};
     return 0;
 }
