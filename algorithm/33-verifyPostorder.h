@@ -11,7 +11,7 @@ bool verifyPostorder(vector<int>& postorder) {
     return verifyPostorder(postorder, 0, len);
 }
 bool verifyPostorder(vector<int>& postorder, int start, int end) {
-    if (start == end) return false;
+    if (start == end) return true;
     int root = postorder[end-1];
     int i = 0;
     for (; i < end-1; ++i) {
@@ -24,7 +24,7 @@ bool verifyPostorder(vector<int>& postorder, int start, int end) {
             return false;
     }
     bool left = true;
-    if (i > 0) left = verifyPostorder(postorder, 0, i);
+    if (i > 0) left = verifyPostorder(postorder, start, i);
     bool right = true;
     if (i < end - 1) right = verifyPostorder(postorder, i, end-1);
     return left && right;
