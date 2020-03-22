@@ -1,12 +1,14 @@
 #include <iostream>
+#include <cmath>
 #include <vector>
 #include <stack>
 #include <queue>
+#include <set>
 using namespace std;
 
-#include "34-pathSum.h"
+#include "46-translateNum.h"
 
 int main() {
-    vector<int> a{7, 4, 6, 5};
+    vector<int> a{4, 8, 6, 12, 16, 14, 10};
     return 0;
 }
