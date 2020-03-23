@@ -14,6 +14,7 @@ bool IsUgly(int num) {
         num /= 5;
     return num == 1;
 }
+
 int nthUglyNumber(int n) {
     if (n <= 0) return 0;
     int i = 0;
