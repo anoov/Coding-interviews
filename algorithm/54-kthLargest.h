@@ -6,6 +6,7 @@
 #define LEETCODE_54_KTHLARGEST_H
 
 #include "TreeNode.h"
+
 void kthLargest(TreeNode* root, vector<int>& vec) {
     if (root) {
         if (root->left) kthLargest(root->left, vec);
